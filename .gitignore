@@ -1,0 +1,15 @@
+# maven
+target/**
+
+# vim
+*~
+.*.swp
+
+# git
+*.orig
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+*.idea.*

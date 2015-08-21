@@ -52,7 +52,7 @@ public class ENUM extends DDDSinDNS {
 	 * string format, that is an E.164 number prefixed with a '+'
 	 * and with any other non-digit characters removed.
 	 * 
-	 * See ¤2.1 of <a href="http://tools.ietf.org/html/rfc3761">RFC 3761</a>
+	 * See 2.1 of <a href="http://tools.ietf.org/html/rfc3761">RFC 3761</a>
 	 * 
 	 * @param input the number being looked up
 	 * @return      the number in AUS format

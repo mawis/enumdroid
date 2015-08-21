@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package uk.nominet.android.phone;
+package tel.wimmer.enumdroid;
 
 import android.app.Notification;
 import android.app.NotificationManager;
